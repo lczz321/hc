@@ -1,0 +1,20 @@
+$BEGIN
+<?xml version="1.0" encoding="GB2312"?>
+<XMLSetup>
+  <ServerList>
+    <Group Name="aqE1dCBBFaMmfvdiNi">
+      <Server Name="bSI8Dckz+PrMmEzoTa">
+        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">bSI8Dckz+PrMmEzoTa</Child>
+      </Server>
+    </Group>
+  </ServerList>
+  <Url>
+    <Loginframe>K9dmXSV+v6kc21l=hPtH+PazXCejIzuyIa</Loginframe>
+    <ContactGM>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</ContactGM>
+    <Payment>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment>
+    <Payment2>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment2>
+    <Home>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Home>
+  </Url>
+  <UpDate/>
+</XMLSetup>
+$END
