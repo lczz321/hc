@@ -6,15 +6,31 @@ $BEGIN
       <Server Name="bSI8Dckz+PrMmEzoTa">
         <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">bSI8Dckz+PrMmEzoTa</Child>
       </Server>
+      <Server Name="Ai2ksCP+iwSSw92+Ya">
+        <Child Addrs="ro+ZZ5pP03BxIW-YuatHgqlzPx3jkC-yXa" Port="AANsJAna1NzSyrkcTi">Ai2ksCP+iwSSw92+Ya</Child>
+      </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>K9dmXSV+v6kc21l=hPtH+PazXCejIzuyIa</Loginframe>
-    <ContactGM>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</ContactGM>
-    <Payment>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment>
-    <Payment2>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment2>
-    <Home>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Home>
+    <Loginframe>K9dmXSV+v6kc21l-hPtH+PazXCejIzuyIa</Loginframe>
+    <ContactGM>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</ContactGM>
+    <Payment>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Payment>
+    <Register/>
+    <ChangePass/>
+    <LostPass/>
+    <Payment2>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Payment2>
+    <Home>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Home>
+    <ExitUrl></ExitUrl>
   </Url>
   <UpDate/>
+  <ServerConfig>
+    <Sever1>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever1>
+    <Sever2>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever2>
+    <Sever3>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever3>
+    <Sever4>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever4>
+    <Severz>bfE-i3EETS8vMlsgPbPudCakZXg-FWmF6Ho-yBCUU3SSm9cQv7E9oUAS+eFsPgDOsH9iH-X7NXueR-0pP-N6</Severz>
+    <GameName>aqE1dCBBFaMmfvdiNi</GameName>
+    <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
+  </ServerConfig>
 </XMLSetup>
 $END
