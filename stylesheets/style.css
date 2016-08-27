@@ -6,7 +6,7 @@ body{min-width:1000px;font-size:12px;background-color:#282725;}
 a{text-decoration:none;}
 a:hover{text-decoration:none;}
 .hid{display:none;}
-.base{background:url(../img/base.png) no-repeat 0 0;}
+.base{background:url(https://img.alicdn.com/imgextra/i3/925338482/TB2pQk0XNvzQeBjSZFAXXaF9VXa_!!925338482.png) no-repeat 0 0;}
 .wrap{background-repeat:no-repeat; background-position:50% 0;height:860px;position:relative;margin-top:-20px;}
 .container{width:1000px;margin:0 auto;position:relative;}
 .detail{ display: block;
