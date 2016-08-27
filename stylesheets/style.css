@@ -18,7 +18,7 @@ a:hover{text-decoration:none;}
   overflow: hidden;
   text-indent: -999em; }
 .content{zoom:1;padding:338px 0 0 179px;}
-.video{float:left;width:448px;height:270px;background-color:#8c8c8c;}
+.video{float:left;width:448px;height:270px;background-color:#000000;}
 .video img{height: 270px;
   max-height: 270px;
 }
