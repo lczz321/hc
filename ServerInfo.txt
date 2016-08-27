@@ -3,32 +3,35 @@ $BEGIN
 <XMLSetup>
   <ServerList>
     <Group Name="aqE1dCBBFaMmfvdiNi">
-      <Server Name="bSI8Dckz+PrMmEzoTa">
-        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">bSI8Dckz+PrMmEzoTa</Child>
+      <Server Name="bsWGaojTwaD5MpWfki">
+        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">bsWGaojTwaD5MpWfki</Child>
       </Server>
-      <Server Name="Ai2ksCP+iwSSw92+Ya">
-        <Child Addrs="ro+ZZ5pP03BxIW-YuatHgqlzPx3jkC-yXa" Port="AANsJAna1NzSyrkcTi">Ai2ksCP+iwSSw92+Ya</Child>
+      <Server Name="auUHKxcE8Y--7I6qjy">
+        <Child Addrs="ro+ZZ5pP03BxIW-Yv5-w+112n2fdxdTIfy" Port="AANsJAna1NzSyrkcTi">auUHKxcE8Y--7I6qjy</Child>
+      </Server>
+      <Server Name="aqE1dCBBFaMmfvdiNi">
+        <Child Addrs="T9ZcxTgFJ+W8pAizp56f3oU8mD1vpXYvji" Port="AANsJAna1NzSyrkcTi">Ai2ksCP+iwSSw92+Ya</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>K9dmXSV+v6kc21l-hPtH+PazXCejIzuyIa</Loginframe>
-    <ContactGM>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</ContactGM>
-    <Payment>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Payment>
+    <Loginframe>AvhpLupiCLW2vYfdN3xOHa8oCnQCueVxxGhKoUKBNbqvGtlkJlg</Loginframe>
+    <ContactGM></ContactGM>
+    <Payment></Payment>
     <Register/>
     <ChangePass/>
     <LostPass/>
-    <Payment2>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Payment2>
-    <Home>K9dmXSV+v6kc21l-GZIPB0RmK5wtdufNNy</Home>
+    <Payment2>rSHHtPFb1bDEj9i7xNaBsRCG6GBAUI3qUy</Payment2>
+    <Home>rSHHtPFb1bDEj9i7xNaBsRCG6GBAUI3qUy</Home>
     <ExitUrl></ExitUrl>
   </Url>
   <UpDate/>
   <ServerConfig>
-    <Sever1>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever1>
+    <Sever1>bJQImy+fZGvW4BZ1svlmWhJ+Ui1rYs11IMkM5tTR1pkr-NOuhL4</Sever1>
     <Sever2>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever2>
     <Sever3>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever3>
-    <Sever4>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever4>
-    <Severz>bfE-i3EETS8vMlsgPbPudCakZXg-FWmF6Ho-yBCUU3SSm9cQv7E9oUAS+eFsPgDOsH9iH-X7NXueR-0pP-N6</Severz>
+    <Sever4>bJQImy+fZGvW4BZ1svlmWhJ+Ui1rYs11IMkM5tTR1pkr-NOuhL4</Sever4>
+    <Severz>bhwAOEvr6ZVz3NYG7NOiO1yBOv6QvyH17Qm-cg1F-PJ73IKKcVAMzxDizfoFEaoLaTJzlkSu+SZMkPDsQZf6</Severz>
     <GameName>aqE1dCBBFaMmfvdiNi</GameName>
     <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
   </ServerConfig>
