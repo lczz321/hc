@@ -1,0 +1,49 @@
+body,div,ul,ol,li,h1,h2,h3,h4,h5,h6,p{ margin:0; padding:0; font-family:"宋体",Tahoma,sans-serif;}
+img { border:0; }
+ul,ol{ list-style:none; }
+h1,h2,h3,h4,h5,h6 { font-size:100%; font-weight:normal; }
+body{min-width:1000px;font-size:12px;background-color:#282725;}
+a{text-decoration:none;}
+a:hover{text-decoration:none;}
+.hid{display:none;}
+.base{background:url(../img/base.png) no-repeat 0 0;}
+.wrap{background-repeat:no-repeat; background-position:50% 0;height:860px;position:relative;margin-top:-20px;}
+.container{width:1000px;margin:0 auto;position:relative;}
+.detail{ display: block;
+  width: 370px;
+  height: 240px;
+  position: absolute;
+  left: 287px;
+  top: 261px;
+  overflow: hidden;
+  text-indent: -999em; }
+.content{zoom:1;padding:338px 0 0 179px;}
+.video{float:left;width:448px;height:270px;}
+.video img{height: 270px;
+  max-height: 270px;
+}
+.btn{width:196px;height:284px;margin-top:-10px;float:left;}
+.btn a{display:block;width:184px;height:60px;overflow:hidden;text-indent:-999em;margin-top:2px;}
+.btn .gw{margin-top:0;height:98px;}
+.footer{width:100%;background:#282725;clear:both;dn}
+.f-infos{position:relative;padding:30px 0 30px 320px;width:715px;color:#8c8c8c;margin:0 auto}
+.tencent-game{width:306px;height:43px;background:url(http://ossweb-img.qq.com/images/dnf/web2015/sprite-bg.png) no-repeat -215px -436px;position:absolute;top:30px;left:0;z-index:0}
+.f-infos a{color:#8c8c8c}
+.f-infos span{display:inline-block;margin:0 6px 0;*margin-bottom:3px;margin-bottom:0\0;width:1px;height:6px;overflow:hidden;background:#454446}
+.f-infos p.r{_display:inline;float:right;margin:-13px 9px 0 0}
+.f-infos p.e{margin-top:5px;font-size:10px;font-family:Tahoma}
+.f-infos p.license{padding:0 5px;margin-top:3px;width:536px;background-color:#313131;height:21px;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;color:#7f7f7f;line-height:21px}
+.f-infos p.license em{margin:0 0 0 10px;font-style:normal;font-weight:normal}
+.f-infos a.tg{display:block;width:170px;height:40px;text-indent:-999px;overflow:hidden}
+.f-infos .copyright{font-size:10px;font-family:Tahoma}
+.f-infos p.e,.f-infos .copyright{font-variant:small-caps;-webkit-transform:scale(0.8)}
+@media screen and (-webkit-min-device-pixel-ratio:0){.f-infos p.e,.f-infos .copyright{margin:0 0 0 -77px}
+}
+.video-tip{display:none;position:absolute;}
+.gg{width:649px;height:410px;background-color:#ffcb9c;position:absolute;left:50%;top:50%;margin:-188px  0 0 -330px;z-index:9999;display:none;}
+	.gg .close{width:57px;height:57px;background:url(http://ossweb-img.qq.com/images/dnf/act/a20140610chapter/base.png) no-repeat -594px -213px;width:50px;height:50px;position:absolute;right:-50px;top:0px;}
+		.close a{display:block;height:57px;overflow:hidden;text-indent:-999em;}
+		.gg-con{margin:5px;}
+
+
+
