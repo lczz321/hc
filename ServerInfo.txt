@@ -10,12 +10,12 @@ $BEGIN
         <Child Addrs="ro+ZZ5pP03BxIW-Yv5-w+112n2fdxdTIfy" Port="AANsJAna1NzSyrkcTi">auUHKxcE8Y--7I6qjy</Child>
       </Server>
       <Server Name="aqE1dCBBFaMmfvdiNi">
-        <Child Addrs="T9ZcxTgFJ+W8pAizp56f3oU8mD1vpXYvji" Port="AANsJAna1NzSyrkcTi">Ai2ksCP+iwSSw92+Ya</Child>
+        <Child Addrs="tY4GEdT4yTbVoetPd5y22vyaUeim7xVHYq" Port="AANsJAna1NzSyrkcTi">Ai2ksCP+iwSSw92+Ya</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>AvhpLupiCLW2vYfdN3xOHa8oCnQCueVxxGhKoUKBNbqvGtlkJlg</Loginframe>
+    <Loginframe>IpOKvSdu3O8r8XfI3BB3oRwR4FS87OevbJr93NtQb7Fa1RQSnTCm8rQEGoyEOy8vDui</Loginframe>
     <ContactGM></ContactGM>
     <Payment></Payment>
     <Register/>
@@ -27,10 +27,10 @@ $BEGIN
   </Url>
   <UpDate/>
   <ServerConfig>
-    <Sever1>bJQImy+fZGvW4BZ1svlmWhJ+Ui1rYs11IMkM5tTR1pkr-NOuhL4</Sever1>
+    <Sever1>bJQImy+fZGvW4BZ1suVOuCs9GZrw6ZEtA1NIiTDvaoc7QN5sMWg</Sever1>
     <Sever2>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever2>
     <Sever3>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever3>
-    <Sever4>bJQImy+fZGvW4BZ1svlmWhJ+Ui1rYs11IMkM5tTR1pkr-NOuhL4</Sever4>
+    <Sever4>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever4>
     <Severz>bhwAOEvr6ZVz3NYG7NOiO1yBOv6QvyH17Qm-cg1F-PJ73IKKcVAMzxDizfoFEaoLaTJzlkSu+SZMkPDsQZf6</Severz>
     <GameName>aqE1dCBBFaMmfvdiNi</GameName>
     <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
