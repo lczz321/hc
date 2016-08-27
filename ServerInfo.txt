@@ -15,7 +15,7 @@ $BEGIN
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>ezNxOAWQh9MuqZpRad2GdQYB7+87zjBpiq</Loginframe>
+    <Loginframe>AF6v1US+XdHJBdaV14PD0wlPOx1Mt+Rr16MYKmoxtwlSQeAutu0</Loginframe>
     <ContactGM></ContactGM>
     <Payment></Payment>
     <Register/>
