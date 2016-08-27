@@ -31,7 +31,7 @@ $BEGIN
     <Sever2>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever2>
     <Sever3>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever3>
     <Sever4>b5ogL1wlonaz78OGbGYlwpNFRQXoXxyZnL26oblTnFtWp4HAg5NIiTDvaoc7QN5sMWg</Sever4>
-    <Severz>bhwAOEvr6ZVz3NYG7NOiO1yBOv6QvyH17Qm-cg1F-PJ73IKKcVAMzxDizfoFEaoLaTJzlkSu+SZMkPDsQZf6</Severz>
+    <Severz>auHvYTvxogAhjzmUUu7WI2H7RCLx2w-f9RTxsvyXyH0fBVWGifuj98MJ-KgoCUSmZYpgDPOq4-kikjV1xvjwJEHiwgLpuOqbuRkk0SSEnHUo2KDY5eozxq</Severz>
     <GameName>aqE1dCBBFaMmfvdiNi</GameName>
     <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
   </ServerConfig>
