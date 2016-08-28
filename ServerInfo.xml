@@ -1,4 +1,3 @@
-$BEGIN
 <?xml version="1.0" encoding="GB2312"?>
 <XMLSetup>
   <ServerList>
@@ -36,4 +35,3 @@ $BEGIN
     <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
   </ServerConfig>
 </XMLSetup>
-$END
