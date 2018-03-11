@@ -2,19 +2,64 @@ $BEGIN
 <?xml version="1.0" encoding="GB2312"?>
 <XMLSetup>
   <ServerList>
-    <Group Name="aqE1dCBBFaMmfvdiNi">
-      <Server Name="bSI8Dckz+PrMmEzoTa">
-        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">bSI8Dckz+PrMmEzoTa</Child>
+    <Group Name="EKVKFw1as0Y3La80Xt4i2rQd+y">
+      <Server Name="eKrO+dopAS6Kt0yDpghOlFkpIy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a" ENAddrs="eKrO+dopAS6Kt0yDpghOlFkpIy" ENPort="A5Orcv-ZR76hOhe-kVvoxfZh3a" treev="Yes">eKrO+dopAS6Kt0yDpghOlFkpIy</Child>
+      </Server>
+    </Group>
+    <Group Name="ePAVi9YktvB6kSmoGw4MDqdfmq">
+      <Server Name="DBwsAKWp-vRtZPfP78APRqw+ta">
+        <Child Addrs="asxYIkDM5frdlEv68hkL3jIxxq" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a" ENAddrs="asxYIkDM5frdlEv68hkL3jIxxq" ENPort="A5Orcv-ZR76hOhe-kVvoxfZh3a" treev="Yes">DBwsAKWp-vRtZPfP78APRqw+ta</Child>
+      </Server>
+      <Server Name="e56Nvl8g4BFkV1h-48QWZlC3zi">
+        <Child Addrs="e56Nvl8g4BFkV1h-48QWZlC3zi" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a" ENAddrs="e56Nvl8g4BFkV1h-48QWZlC3zi" ENPort="A5Orcv-ZR76hOhe-kVvoxfZh3a" treev="Yes">e56Nvl8g4BFkV1h-48QWZlC3zi</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe>K9dmXSV+v6kc21l=hPtH+PazXCejIzuyIa</Loginframe>
-    <ContactGM>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</ContactGM>
-    <Payment>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment>
-    <Payment2>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Payment2>
-    <Home>K9dmXSV+v6kc21l=GZIPB0RmK5wtdufNNy</Home>
+    <Loginframe>AC1n17i+xeVT-AWZALs6FJefeI6bLnmmZxwhsPMEAPNi0tbaTRg</Loginframe>
+    <ContactGM>b0wsuYx-O8MlRAF7VpYi1-XhQa</ContactGM>
+    <Payment>b0wsuYx-O8MlRAF7VpYi1-XhQa</Payment>
+    <Register/>
+    <ChangePass/>
+    <LostPass/>
+    <Payment2>bh8BCaeF+x33zRe-PlysSKOhYY6bLnmmZxwhsPMEAPNi0tbaTRg</Payment2>
+    <Home>b0wsuYx-O8MlRAF7VpYi1-XhQa</Home>
+    <Register>A2yi-Js4g+5EapyXP3qpGbsASs23rtbW2BBxONgy8GUe4SIWpPw</Register>
+    <ChangePass>aj1x1GwZEskstuc00YK0sFPZvtQ-md5ZUcHtLzUPVa1IeZqG302iC+LuZM9vMl7szj-2FZx4WsP9</ChangePass>
+    <LostPass>bhwJybs6D8zI-K9AYQzCuGPFr4+1dWH+QK2m0FL88p7TGz0JWRo</LostPass>
+    <PackPassword></PackPassword>
   </Url>
   <UpDate/>
+  <ServerConfig>
+    <Sever1>AC1n17i+xeVT-AWZALs6FJefeiNsuymLKXq0glX31MToeJuiZtu</Sever1>
+    <Sever2>AC1n17i+xeVT-AWZALs6FJefeiNsuymLKXq0glX31MToeJuiZtu</Sever2>
+    <logo>cXZtR--lnlJIgSJS5eszmxky5q</logo>
+    <Severz>aXY61fc9a9jN09prH9V-OtfKYdzbZkbuNUHv2+a0pZePFcJds00g9k0FuWBiD-PxcxAe4d8CJ79cH3H3zBhqj+0pEUbyVBJQIG5BsLMLl-hJzioGdocAafxmQPJnja</Severz>
+    <tubiao>C6UwWmRDuhZj-Dok+wa3W+8AasKxHVg-2n9+1JoJztVZRAbAW5aN1LV2l1znTiCGCH2aj2rWyS4ca7KzYzb7iepNK5ciRE2kCtz0TYTSvR4jbjId-6kGT0bhfPgpLa</tubiao>
+    <Version>eHQYBlXNpVM0AyLMouPSjGd-7i</Version>
+    <FScreenMode>cVGSv6uqp6enSfvHVOMleMMhxi</FScreenMode>
+    <CanPatch>eHQYBlXNpVM0AyLMouPSjGd-7i</CanPatch>
+    <Cantubiao>nhpsXcKpYRBpGWlzVxQnjL32</Cantubiao>
+    <Bedchlb>nhpsXcKpYRBpGWlzVxQnjL32</Bedchlb>
+    <JMBOSQL>eHQYBlXNpVM0AyLMouPSjGd-7i</JMBOSQL>
+    <JMPatch>nhpsXcKpYRBpGWlzVxQnjL32</JMPatch>
+    <JMPMode>nhpsXcKpYRBpGWlzVxQnjL32</JMPMode>
+    <dtLgino>nhpsXcKpYRBpGWlzVxQnjL32</dtLgino>
+    <JkGongg>nhpsXcKpYRBpGWlzVxQnjL32</JkGongg>
+    <SuiGtp>BKWLKBt-QjZMbJ4Io772rj7joi</SuiGtp>
+    <PatchDir>d0Hwhjo2grjY4TKtlCoTihdksy</PatchDir>
+    <GameName>EKVKFw1as0Y3La80Xt4i2rQd+y</GameName>
+    <Register>A2yi-Js4g+5EapyXP3qpGbsASs23rtbW2BBxONgy8GUe4SIWpPw</Register>
+    <ChangePass>aj1x1GwZEskstuc00YK0sFPZvtQ-md5ZUcHtLzUPVa1IeZqG302iC+LuZM9vMl7szj-2FZx4WsP9</ChangePass>
+    <LostPass>bhwJybs6D8zI-K9AYQzCuGPFr4+1dWH+QK2m0FL88p7TGz0JWRo</LostPass>
+    <PackPassword></PackPassword>
+    <LoginBuild>AjFXzTq2sfSn2K9IM29QB8BzXq</LoginBuild>
+    <GatePass>e9V4Ix+c8V9R9oUN1Ezq4KEIHy</GatePass>
+    <ClientCount>Ad41Kh521gb7Zy00eGYVx6BYSi</ClientCount>
+    <ClientbQ>DxqGVBfNRwa1M0LZQA+OKGxIny</ClientbQ>
+    <Mirtag>as5rCLW8FgHt3M9gBl1msRv3da</Mirtag>
+    <Mirxml>cx59LudLjlOB7139UFiGI5a2Ji</Mirxml>
+  </ServerConfig>
 </XMLSetup>
 $END
